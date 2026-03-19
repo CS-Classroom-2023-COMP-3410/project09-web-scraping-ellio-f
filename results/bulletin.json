@@ -1,0 +1,320 @@
+{
+  "courses": [
+    {
+      "course": "COMP-1101",
+      "title": "Analytical Inquiry I  (4 Credits)"
+    },
+    {
+      "course": "COMP-1201",
+      "title": "Introduction to Computer Science I  (2 Credits)"
+    },
+    {
+      "course": "COMP-1202",
+      "title": "Introduction to Computer Science II  (2 Credits)"
+    },
+    {
+      "course": "COMP-1203",
+      "title": "Introduction to Computer Science III  (2 Credits)"
+    },
+    {
+      "course": "COMP-1351",
+      "title": "Introduction to Programming I  (3 Credits)"
+    },
+    {
+      "course": "COMP-1352",
+      "title": "Introduction to Programming II  (3 Credits)"
+    },
+    {
+      "course": "COMP-1353",
+      "title": "Introduction to Data Structures & Algorithms I  (3 Credits)"
+    },
+    {
+      "course": "COMP-1601",
+      "title": "Computer Science Pathways  (1 Credit)"
+    },
+    {
+      "course": "COMP-1671",
+      "title": "Introduction to Computer Science I  (4 Credits)"
+    },
+    {
+      "course": "COMP-1672",
+      "title": "Introduction to Computer Science II  (4 Credits)"
+    },
+    {
+      "course": "COMP-1991",
+      "title": "Independent Study  (1 Credit)"
+    },
+    {
+      "course": "COMP-2300",
+      "title": "Discrete Structures in Computer Science  (4 Credits)"
+    },
+    {
+      "course": "COMP-2355",
+      "title": "Intro to Systems Programming  (4 Credits)"
+    },
+    {
+      "course": "COMP-2361",
+      "title": "Systems I  (4 Credits)"
+    },
+    {
+      "course": "COMP-2362",
+      "title": "Systems II  (4 Credits)"
+    },
+    {
+      "course": "COMP-2370",
+      "title": "Introduction to Data Structures & Algorithms II  (4 Credits)"
+    },
+    {
+      "course": "COMP-2381",
+      "title": "Object-Oriented Software Development  (4 Credits)"
+    },
+    {
+      "course": "COMP-2673",
+      "title": "Introduction to Computer Science III  (4 Credits)"
+    },
+    {
+      "course": "COMP-2691",
+      "title": "Introduction to Computer Organization  (4 Credits)"
+    },
+    {
+      "course": "COMP-2701",
+      "title": "Topics in Computer Science  (1-5 Credits)"
+    },
+    {
+      "course": "COMP-2821",
+      "title": "Introductory Game Design  (4 Credits)"
+    },
+    {
+      "course": "COMP-2901",
+      "title": "Computing and Society  (4 Credits)"
+    },
+    {
+      "course": "COMP-3000",
+      "title": "Seminar: The Real World  (1 Credit)"
+    },
+    {
+      "course": "COMP-3009",
+      "title": "Essential Math for Data Science and AI  (4 Credits)"
+    },
+    {
+      "course": "COMP-3100",
+      "title": "Human-Computer Interaction  (4 Credits)"
+    },
+    {
+      "course": "COMP-3200",
+      "title": "Discrete Structures  (4 Credits)"
+    },
+    {
+      "course": "COMP-3334",
+      "title": "Parallel and Distributed Computing for Data Science and AI  (4 Credits)"
+    },
+    {
+      "course": "COMP-3351",
+      "title": "Programming Languages  (4 Credits)"
+    },
+    {
+      "course": "COMP-3352",
+      "title": "Elements of Compiler Design  (4 Credits)"
+    },
+    {
+      "course": "COMP-3353",
+      "title": "Compiler Construction  (4 Credits)"
+    },
+    {
+      "course": "COMP-3361",
+      "title": "Operating Systems I  (4 Credits)"
+    },
+    {
+      "course": "COMP-3371",
+      "title": "Data Structures &  Algorithms  (4 Credits)"
+    },
+    {
+      "course": "COMP-3372",
+      "title": "Advanced Algorithms  (4 Credits)"
+    },
+    {
+      "course": "COMP-3381",
+      "title": "Software Engineering I  (4 Credits)"
+    },
+    {
+      "course": "COMP-3382",
+      "title": "Software Engineering II  (4 Credits)"
+    },
+    {
+      "course": "COMP-3384",
+      "title": "Secure Software Engineering  (4 Credits)"
+    },
+    {
+      "course": "COMP-3410",
+      "title": "Web Programming I  (4 Credits)"
+    },
+    {
+      "course": "COMP-3411",
+      "title": "Web Programming II  (4 Credits)"
+    },
+    {
+      "course": "COMP-3412",
+      "title": "Web Projects: Web Development III  (4 Credits)"
+    },
+    {
+      "course": "COMP-3421",
+      "title": "Database Organization & Management I  (4 Credits)"
+    },
+    {
+      "course": "COMP-3424",
+      "title": "NoSQL Databases  (4 Credits)"
+    },
+    {
+      "course": "COMP-3431",
+      "title": "Data Mining  (4 Credits)"
+    },
+    {
+      "course": "COMP-3432",
+      "title": "Machine Learning  (4 Credits)"
+    },
+    {
+      "course": "COMP-3433",
+      "title": "Data Visualization  (4 Credits)"
+    },
+    {
+      "course": "COMP-3441",
+      "title": "Introduction to Probability and Statistics for Data Science & AI  (4 Credits)"
+    },
+    {
+      "course": "COMP-3442",
+      "title": "Advanced Probability and Statistics for Data Science  (4 Credits)"
+    },
+    {
+      "course": "COMP-3450",
+      "title": "Machine Learning Operations  (4 Credits)"
+    },
+    {
+      "course": "COMP-3455",
+      "title": "Shell Scripting and System Tools  (4 Credits)"
+    },
+    {
+      "course": "COMP-3456",
+      "title": "Deep Learning for Sequence Data  (4 Credits)"
+    },
+    {
+      "course": "COMP-3490",
+      "title": "Undestanding AI  (4 Credits)"
+    },
+    {
+      "course": "COMP-3491",
+      "title": "Applications of Generative AI  (4 Credits)"
+    },
+    {
+      "course": "COMP-3495",
+      "title": "AI Design Project  (4 Credits)"
+    },
+    {
+      "course": "COMP-3501",
+      "title": "Introduction to Artificial Intelligence  (4 Credits)"
+    },
+    {
+      "course": "COMP-3525",
+      "title": "Human Centered AI - Mind Reading Machines  (4 Credits)"
+    },
+    {
+      "course": "COMP-3531",
+      "title": "Deep Learning: Model Design and Application  (4 Credits)"
+    },
+    {
+      "course": "COMP-3581",
+      "title": "Algorithms for Data Science & AI  (4 Credits)"
+    },
+    {
+      "course": "COMP-3591",
+      "title": "Computational Geometry  (4 Credits)"
+    },
+    {
+      "course": "COMP-3621",
+      "title": "Computer Networking  (4 Credits)"
+    },
+    {
+      "course": "COMP-3681",
+      "title": "Networking for Games  (4 Credits)"
+    },
+    {
+      "course": "COMP-3701",
+      "title": "Topics in Computer Graphics  (4 Credits)"
+    },
+    {
+      "course": "COMP-3702",
+      "title": "Topics in Database  (4 Credits)"
+    },
+    {
+      "course": "COMP-3703",
+      "title": "Topics-Artificial Intelligence  (4 Credits)"
+    },
+    {
+      "course": "COMP-3704",
+      "title": "Advanced Topics: Systems  (4 Credits)"
+    },
+    {
+      "course": "COMP-3705",
+      "title": "Topics in Computer Science  (1-4 Credits)"
+    },
+    {
+      "course": "COMP-3711",
+      "title": "Special Topics in Data Science & AI  (4 Credits)"
+    },
+    {
+      "course": "COMP-3721",
+      "title": "Computer Security  (4 Credits)"
+    },
+    {
+      "course": "COMP-3722",
+      "title": "Network Security  (4 Credits)"
+    },
+    {
+      "course": "COMP-3723",
+      "title": "Ethical Hacking  (4 Credits)"
+    },
+    {
+      "course": "COMP-3731",
+      "title": "Computer Forensics  (4 Credits)"
+    },
+    {
+      "course": "COMP-3801",
+      "title": "Introduction Computer Graphics  (4 Credits)"
+    },
+    {
+      "course": "COMP-3820",
+      "title": "Introduction to Game Programming  (4 Credits)"
+    },
+    {
+      "course": "COMP-3821",
+      "title": "Game Programming I  (4 Credits)"
+    },
+    {
+      "course": "COMP-3822",
+      "title": "Game Programming II  (4 Credits)"
+    },
+    {
+      "course": "COMP-3831",
+      "title": "Game Prototyping  (4 Credits)"
+    },
+    {
+      "course": "COMP-3832",
+      "title": "Game Capstone I  (4 Credits)"
+    },
+    {
+      "course": "COMP-3833",
+      "title": "Game Capstone II  (4 Credits)"
+    },
+    {
+      "course": "COMP-3904",
+      "title": "Internship/Co-Op in Computing  (0-10 Credits)"
+    },
+    {
+      "course": "COMP-3991",
+      "title": "Independent Study  (1-10 Credits)"
+    },
+    {
+      "course": "COMP-3995",
+      "title": "Independent Research  (1-10 Credits)"
+    }
+  ]
+}

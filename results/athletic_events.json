@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "duTeam": "Men's Swimming & Diving",
+      "opponent": "NCAA Zone E Diving",
+      "date": "2026-03-09T00:00:00"
+    },
+    {
+      "duTeam": "Men's Golf",
+      "opponent": "Round 2",
+      "date": "2026-03-09T00:00:00"
+    },
+    {
+      "duTeam": "Women's Swimming & Diving",
+      "opponent": "NCAA Zone E Diving",
+      "date": "2026-03-09T00:00:00"
+    },
+    {
+      "duTeam": "Women's Gymnastics",
+      "opponent": "Air Force",
+      "date": "2026-03-09T17:45:00"
+    },
+    {
+      "duTeam": "Men's Golf",
+      "opponent": "Round 3",
+      "date": "2026-03-10T00:00:00"
+    },
+    {
+      "duTeam": "Skiing",
+      "opponent": "Giant Slalom",
+      "date": "2026-03-11T08:45:00"
+    },
+    {
+      "duTeam": "Skiing",
+      "opponent": "7.5K Classic",
+      "date": "2026-03-12T09:00:00"
+    },
+    {
+      "duTeam": "Men's Lacrosse",
+      "opponent": "Ohio State",
+      "date": "2026-03-12T17:00:00"
+    },
+    {
+      "duTeam": "Skiing",
+      "opponent": "Slalom",
+      "date": "2026-03-13T08:30:00"
+    },
+    {
+      "duTeam": "Women's Tennis",
+      "opponent": "Davidson",
+      "date": "2026-03-13T14:00:00"
+    },
+    {
+      "duTeam": "Men's Swimming & Diving",
+      "opponent": "NIC Championships",
+      "date": "2026-03-11T00:00:00"
+    },
+    {
+      "duTeam": "Women's Swimming & Diving",
+      "opponent": "NIC Championships",
+      "date": "2026-03-11T00:00:00"
+    },
+    {
+      "duTeam": "Women's Lacrosse",
+      "opponent": "Stetson",
+      "date": "2026-03-13T18:00:00"
+    },
+    {
+      "duTeam": "Skiing",
+      "opponent": "20K Freestyle",
+      "date": "2026-03-14T08:30:00"
+    },
+    {
+      "duTeam": "Men's Soccer",
+      "opponent": "UCCS",
+      "date": "2026-03-14T13:00:00"
+    },
+    {
+      "duTeam": "Women's Gymnastics",
+      "opponent": "(25) Oregon State",
+      "date": "2026-03-14T15:00:00"
+    },
+    {
+      "duTeam": "Men's Ice Hockey",
+      "opponent": "Western Michigan",
+      "date": "2026-03-14T18:00:00"
+    },
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "Penn",
+      "date": "2026-03-15T11:00:00"
+    },
+    {
+      "duTeam": "Women's Soccer",
+      "opponent": "University of Colorado Colorado Springs",
+      "date": "2026-03-15T18:00:00"
+    },
+    {
+      "duTeam": "Men's Lacrosse",
+      "opponent": "Syracuse",
+      "date": "2026-03-16T18:00:00"
+    }
+  ]
+}
